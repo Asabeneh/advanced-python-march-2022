@@ -1,0 +1,7 @@
+1 - Daria is attend Advanced Python on 22 March 2022, 18:40.
+2 - Irina is attend Advanced Python on 22 March 2022, 18:40.
+3 - Heikki is attend Advanced Python on 22 March 2022, 18:40.
+4 - Timo is attend Advanced Python on 22 March 2022, 18:40.
+5 - Vesa is attend Advanced Python on 22 March 2022, 18:40.
+6 - Imran is attend Advanced Python on 22 March 2022, 18:40.
+7 - Ismo is attend Advanced Python on 22 March 2022, 18:40.

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Timo",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Maria",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Irina",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Iso",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Heikki",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Vesa",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    }
+]

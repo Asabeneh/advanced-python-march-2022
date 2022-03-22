@@ -1,0 +1,3 @@
+We are about to read a text from sample.txt
+This is the second line from the sample.txt file
+This is the third line

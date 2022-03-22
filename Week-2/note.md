@@ -1,0 +1,6 @@
+- Loops
+- List
+- Function
+- List Comprehnesion
+- Lambda Function
+- Functional Programming(map, filter, reduce)
